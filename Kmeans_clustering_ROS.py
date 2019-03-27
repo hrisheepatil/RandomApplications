@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-##########################################
-##### WRITE YOUR CODE IN THIS FILE #######
-##########################################
-
 import numpy
 import rospy
 import time
